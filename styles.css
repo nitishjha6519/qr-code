@@ -48,7 +48,7 @@ p {
 
 @media only screen and (max-width: 650px) {
     .container {
-        width: 80%;
+        width: 90%;
         padding: 15px;
         font-size: 0.9rem;
     }
