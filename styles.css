@@ -45,3 +45,15 @@ h2 {
 p {
     color: hsl(220, 15%, 55%);
 }
+
+@media only screen and (max-width: 450px) {
+    .container {
+        max-width: 90%;
+        padding: 10px;
+        font-size: 0.7rem;
+    }
+    h2 {
+        font-weight: 700;
+        font-size: 0.8rem;
+    }
+}
