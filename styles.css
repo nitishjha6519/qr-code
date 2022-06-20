@@ -9,7 +9,7 @@ body {
     font-family: 'Outfit', sans-serif;
     background-color: hsl(212, 45%, 89%);
     position: relative;
-    min-height: 100vh;
+    height: 100vh;
     font-size: 15px;
 }
 
